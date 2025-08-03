@@ -1,0 +1,9 @@
+playerId: 00000000-0000-0000-0000-000000000000
+playerName: Example
+homes:
+  casa1:
+    name: casa1
+    location: world;x;y;z;yaw;pitch
+  casa2:
+    name: casa2
+    location: world;x;y;z;yaw;pitch
